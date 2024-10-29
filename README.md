@@ -16,7 +16,7 @@ We can first develop our algorithm in a simulation environment:
 And then test the algorithm in real world.  
 ![Robot](contents/robot.png)
 
-We need:
+For simulation, we need:
 - Robot operaing system environment
 - Gazebo simulation environment
 
