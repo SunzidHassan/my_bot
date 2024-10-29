@@ -73,7 +73,7 @@ ros2 run teleop_twist_keyboard teleop_twist_keyboard
 ```
 You can now drive the robot in the simulated environment.
 
-To observe the sensor readings, we can open a new terminal and execute:
+To observe the sensor readings, open a new terminal and execute:
 ```bash
 rviz2 -d src/my_bot/config/view_bot.rviz
 ```
@@ -93,4 +93,4 @@ In lines 84, 85, you'll file the lines:
 msg.linear.x = 0.01
 msg.angular.z = 0.05
 ```
-Change the values (stay within 0-1). Stop the program my_bot_subpub by pressing `ctrl+c` and run it again. Notice anything different?
+Change the values (stay within 0-1). Stop the program my_bot_subpub by pressing `ctrl+c` and run it again. Notice any changes in robot's movement?
