@@ -14,6 +14,7 @@ We can first develop our algorithm in a simulation environment:
 ![Simulation Environment](contents/simulationField.png)
 
 And then test the algorithm in real world.
+![Robot](contents/robot.png)
 
 We need:
 - Robot operaing system environment
