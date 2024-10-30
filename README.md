@@ -1,5 +1,7 @@
-# Robot Navigation
+## Link for posting questions
+https://github.com/SunzidHassan/my_bot/issues
 
+# Robot Navigation
 We want to develop a robot navigation algorithm that can process robot's sensor data to generate robot navigation commands to fulfill the given objective.
 
 For this toy problem, we have a differential driver robot with the following sensors:
