@@ -57,7 +57,7 @@ Please don't add PyThon or Anaconda extensions.
 ### Clone the robot code
 Go to https://github.com/SunzidHassan/src.git, click `Use this template > Create a new repository`. Give it a suitable name, and copy the url of your repository.
 
-### 
+### Setting up the simulation environment
 Open a terminal and execute the following commands:
 
 ```bash
