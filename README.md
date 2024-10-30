@@ -62,7 +62,7 @@ Open a terminal and execute the following commands:
 
 ```bash
 cd my_bot && mkdir src
-git clone <name of your repository URL>
+git clone <URL OF YOUR REPOSITORY>
 cd my_bot
 colcon build --symlink-install
 source install/setup.bash
